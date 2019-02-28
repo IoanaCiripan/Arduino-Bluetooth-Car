@@ -13,3 +13,6 @@ Components:
  - 6 x 2 ohm Resistors
  - 6 x LEDs
  - 9 V batery
+ 
+ 
+ Video: https://youtu.be/SlASMTbRyyM
